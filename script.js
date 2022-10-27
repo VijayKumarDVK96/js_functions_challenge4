@@ -41,7 +41,7 @@ let moreOwner = ownersEatTooMuch.join(",");
 console.log(`4, ${moreOwner}'s dogs eat too much!`);
 
 let lessOwner = ownersEatTooLittle.join(",");
-console.log(`${lessOwner}'s dogs eat too much!`);
+console.log(`${lessOwner}'s dogs eat too less!`);
 
 
 console.log('5, Exactly the amount of food');
